@@ -5,7 +5,7 @@ If you have a MacOS or Linux, use files in the AllPlatforms folder.
 
 <h2>Instructions</h2>
 <ol>
-<li>Drag Files Into Main Folder</li>
+<li>Drag Files Into Main Folder (Windows Users dont need the ScriptLineCounter.pdb file)</li>
 <li>Run ScriptLineCounter.exe</li>
 <li>Type the extention you want to count lines for. The default is .dsc</li>
 <li>Press Enter</li>
