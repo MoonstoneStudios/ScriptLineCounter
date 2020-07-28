@@ -14,6 +14,11 @@ If you have a MacOS or Linux, use files in the AllPlatforms folder.
 
 <h3>changelog:</h3>
 
+v0.3:
+<ol>
+<li>added icon</li> 
+</ol>
+
 v0.2: 
 <ol>
 <li>added color</li> 
