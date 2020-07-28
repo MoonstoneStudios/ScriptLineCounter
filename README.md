@@ -21,5 +21,6 @@ v0.2:
 <li>added readme</li> 
 <li>added title</li> 
 <li>seperated code</li>
+</ol>
 
 v0.1: Created
