@@ -12,7 +12,7 @@ If you have a MacOS or Linux, use files in the AllPlatforms folder.
 <li>Yay! You counted lines!</li>
 </ol>
 
-If you type a file name, it will search it! I did not program that ._. How did it work, I dont know! Thanks Breadcrumb#0044
+If you type a file name and its extention (example: index.html), it will search it! I did not program that ._. How did it work, I dont know! Thanks Breadcrumb#0044
 
 <h3>changelog:</h3>
 
