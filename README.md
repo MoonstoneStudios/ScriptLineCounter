@@ -1,4 +1,4 @@
-<h1> Script Line Checker </h1>
+<h1> Script Line Counter </h1>
 This Was made in c#.
 
 If you have a MacOS or Linux, use files in the AllPlatforms folder.
@@ -12,7 +12,7 @@ If you have a MacOS or Linux, use files in the AllPlatforms folder.
 <li>Yay! You counted lines!</li>
 </ol>
 
-If you type a file name and its extention (example: index.html), it will search it! I did not program that ._. How did it work, I dont know! Thanks Breadcrumb#0044
+If you type a file name and its extention (example: index.html), it will search it! I did not program that ._. How did it work? I dont know! Thanks Breadcrumb#0044 for finding that out.
 
 <h3>changelog:</h3>
 
