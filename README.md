@@ -16,7 +16,14 @@ If you type a file name and its extention (example: index.html), it will search 
 
 <h3>changelog:</h3>
 
-v0.4:
+v0.5:
+<ol>
+<li>removed searchAllSubdirectories because I cant make it work.</li>
+<li>fixed the ignore files</li>
+<li>fixed app.config</li> 
+</ol>
+
+v0.4 (NOT WORKING):
 <ol>
 <li>more customizable</li>
 <li>added App.config</li> 
