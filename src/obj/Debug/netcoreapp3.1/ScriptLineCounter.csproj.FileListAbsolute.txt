@@ -1,0 +1,24 @@
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\obj\Debug\netcoreapp3.1\ScriptLineCounter.AssemblyInfoInputs.cache
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\obj\Debug\netcoreapp3.1\ScriptLineCounter.AssemblyInfo.cs
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\Script Line Counter.exe
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\Script Line Counter.deps.json
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\Script Line Counter.runtimeconfig.json
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\Script Line Counter.runtimeconfig.dev.json
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\Script Line Counter.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\Script Line Counter.pdb
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\obj\Debug\netcoreapp3.1\Script Line Counter.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\obj\Debug\netcoreapp3.1\Script Line Counter.pdb
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\obj\Debug\netcoreapp3.1\ScriptLineCounter.csproj.CopyComplete
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\obj\Debug\netcoreapp3.1\ScriptLineCounter.csprojAssemblyReference.cache
+C:\Users\owenj\source\repos\ScriptLineCounter\ScriptLineCounter\bin\Debug\netcoreapp3.1\Script Line Counter.dll.config
