@@ -23,7 +23,7 @@ namespace ScriptLineCounter
             "<?xml version=\"1.0\" encoding=\"utf-8\">\n" +
             "<configuration>\n" +
             "<appSettings>\n" +
-            "<add key=\"defaultExtention\" value=\".dsc\"/>\n" +
+            "<add key=\"defaultExtention\" value=\".cs\"/>\n" +
             "<add key=\"filesToIgnore\" value=\"App.config,Script Line Counter.exe\"/>\n" +
             "</appSettings>\n" +
             "</configuration>";
@@ -49,7 +49,7 @@ namespace ScriptLineCounter
 
         static void startUp()
         {
-            Console.Title = "Script Line Counter Version: 0.5";
+            Console.Title = "Script Line Counter Version: 5.0.1";
             Console.ForegroundColor = ConsoleColor.Magenta;
             //Console.BackgroundColor = ConsoleColor.White;
             Console.WriteLine("                                                 Script Line Counter                                                   ");
@@ -62,25 +62,10 @@ namespace ScriptLineCounter
             if (String.IsNullOrEmpty(fileExtention) == true)
             {
                 fileExtention = defaultExtention;
-            }//if (String.IsNullOrEmpty(fileExtention) == true)
+            }//if
 
-            /*if (searchSubDirectories == true)
-            {
-                allFiles = Directory.GetFiles(path, "*" + fileExtention, SearchOption.AllDirectories);
-                getFilesForCounter();
-            }
-            else if (searchSubDirectories == false){
-            */
-            allFiles = Directory.GetFiles(path, "*" + fileExtention, SearchOption.TopDirectoryOnly);
+            allFiles = Directory.GetFiles(path, "*" + fileExtention, SearchOption.AllDirectories);
             getFilesForCounter();
-           /* } 
-            else
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("The App.config file contains errors in the searchSubDirectories key. Make sure it is set to \"true\" or \"false\"");
-                Console.ReadLine();
-            }//if (searchSubDirectories == true)
-            */
 
         }//Startup
 
@@ -100,9 +85,9 @@ namespace ScriptLineCounter
                     var name = file;
                     totalLines += fileLines;
                     Console.WriteLine("Lines in " + name + ": " + fileLines);
-                }//If (Array.IndexOf(ignore, fileName) != -1)
+                }//If
 
-            }//Foreach (string file in allFiles)
+            }//Foreach
 
             Console.WriteLine(totalLines + " ---- total lines ----");
             Console.WriteLine(allFiles.Length - ignoreSize + " ---- total files ----");

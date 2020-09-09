@@ -16,31 +16,38 @@ If you type a file name and its extention (example: index.html), it will search 
 
 <h3>changelog:</h3>
 
+v5.0.1:
+<ul>
+<li>changed version system 0.0.0 first number means release, middle means medium fix, last measn minor patch</li>
+<li>fixed bug</li>
+<li>default extention is now .cs</li>
+</ul>
+
 v0.5:
-<ol>
+<ul>
 <li>removed searchAllSubdirectories because I cant make it work.</li>
 <li>fixed the ignore files</li>
 <li>fixed app.config</li> 
-</ol>
+</ul>
 
 v0.4 (NOT WORKING):
-<ol>
+<ul>
 <li>more customizable</li>
 <li>added App.config</li> 
-</ol>
+</ul>
 
 v0.3:
-<ol>
+<ul>
 <li>added icon</li> 
-</ol>
+</ul>
 
 v0.2: 
-<ol>
+<ul>
 <li>added color</li> 
 <li>check for default extention</li> 
 <li>added readme</li> 
 <li>added title</li> 
 <li>seperated code</li>
-</ol>
+</ul>
 
 v0.1: Created
