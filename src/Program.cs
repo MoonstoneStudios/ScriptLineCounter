@@ -49,7 +49,7 @@ namespace ScriptLineCounter
 
         static void startUp()
         {
-            Console.Title = "Script Line Counter Version: 5.0.1";
+            Console.Title = "Script Line Counter";
             Console.ForegroundColor = ConsoleColor.Magenta;
             //Console.BackgroundColor = ConsoleColor.White;
             Console.WriteLine("                                                 Script Line Counter                                                   ");
@@ -71,6 +71,14 @@ namespace ScriptLineCounter
 
         static void getFilesForCounter()
         {
+
+            if(allFiles.Length == 0)
+            {
+                Console.WriteLine($"There are no files in this directory with the extention, {fileExtention}");
+                Console.ReadLine();
+                return;
+            }
+
             foreach (string file in allFiles)
             {
 
@@ -89,7 +97,7 @@ namespace ScriptLineCounter
 
             }//Foreach
 
-            Console.WriteLine(totalLines + " ---- total lines ----");
+            Console.WriteLine("\n\n" + totalLines + " ---- total lines ----");
             Console.WriteLine(allFiles.Length - ignoreSize + " ---- total files ----");
             Console.ReadLine();
 
